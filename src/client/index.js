@@ -7,8 +7,6 @@ import './styles/base.scss'
 import './styles/form.scss'
 import './styles/header.scss'
 
-console.log(is_url)
-
 
 alert("It's working")
 
