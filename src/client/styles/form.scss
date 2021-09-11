@@ -19,3 +19,49 @@ input {
     background-color:#a3297a ;
     border-radius: 7px;
 }
+#agreement
+{
+    border: 1px solid ;
+    margin-top:5px;
+    padding: 5px
+}
+#irony
+{   
+    padding: 5px;
+    margin-top:5px;
+    border: 1px solid ;
+}
+#confidence
+{
+    padding: 5px;
+    margin-top:5px;
+    border: 1px solid ;
+}
+#subjectivity
+{
+    padding: 5px;
+    margin-top:5px;
+    border: 1px solid ;
+}
+
+.result{
+    background-color:plum;
+}
+.result:empty{
+    background-color: #ffff;
+    
+}
+#subjectivity:empty{
+border: none;
+}
+
+#confidence:empty{
+    border:none;
+}
+
+#irony:empty{
+    border:none;
+}
+#agreement:empty{
+    border:none;
+}
